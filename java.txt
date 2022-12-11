@@ -1,6 +1,6 @@
 /*This Program Calculates The Cumulative Grade Point Average(CGPA) Of Students Of Federal School Of Statistics. 
 And Also Gives The Class Of Grade Of The Student*/ 
-import javax.swing.*;
+import javax.swing.awt;
 
 public class CGPA_CALCULATOR {
 		public static void main(String[] args){
